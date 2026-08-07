@@ -1,4 +1,3 @@
-```markdown
 # Engineering Digital Products That Deliver Real Business Impact
 
 Modern software should do more than function—it should solve meaningful problems, scale with confidence, and create measurable value. That's the mindset I bring to every product I help build.
@@ -108,4 +107,3 @@ I enjoy collaborating with developers, designers, QA engineers, and product team
 ---
 
 *"Engineering isn't measured by the amount of code we write—it's measured by the confidence people have in the products we build."*
-```
